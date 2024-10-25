@@ -1,4 +1,4 @@
-**1. Pengalamatan Langsung:**
+1. Pengalamatan Langsung:
 Instruksi: LOAD A, 2000
 Pada mode pengalamatan langsung, alamat operand langsung ditentukan oleh nilai yang ada di instruksi.
 Alamat yang diakses: 2000
